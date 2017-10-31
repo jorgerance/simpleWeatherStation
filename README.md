@@ -26,7 +26,7 @@ Wikipedia:
 
 ## Breadboard
 
-![](https://user-images.githubusercontent.com/22028245/32238372-e3f0a364-be67-11e7-899d-61129086d6e2.png)
+![](https://user-images.githubusercontent.com/22028245/32239562-27399344-be6b-11e7-8d47-7e2a29f38035.png)
 
 ## Parameters to be updated on the .ino file
 

@@ -95,7 +95,7 @@ void loop() {
   Serial.print(" ºC \n");
 
   int ldrValue = analogRead(A0);
-  float voltage = ldrValue * (5.0 / 1023.0);
+  float voltage = ldrValue * (3.3 / 1023.0);
   Serial.print("Light:\t\t");
   Serial.print(voltage);
   Serial.println(" V \n");

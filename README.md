@@ -17,7 +17,7 @@ Simple weather station controlled by an NodeMCU writen on Arduino uploading data
 
 **Total cost: 5,45 USD.**
 
-# Parameters to be updated on the .ino file
+## Parameters to be updated on the .ino file
 
 Replace "XXXXXXX" with your API key:
 

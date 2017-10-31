@@ -17,5 +17,16 @@ Simple weather station controlled by an NodeMCU writen on Arduino uploading data
 
 **Total cost: 5,45 USD.**
 
+# Parameters to be updated on the .ino file
 
+Replace "XXXXXXX" with your API key:
 
+    const char * myWriteAPIKey = "XXXXXXX";
+    
+Add one of those statements for each SSID you want to be able to connect:
+
+	wifiMulti.addAP("SSID", "PASSWORD");
+
+What to expect once your data has been uploaded to ThingSpeak:
+
+![]({{site.baseurl}}/https://user-images.githubusercontent.com/22028245/32220371-c7f884d2-be31-11e7-877d-fc83b24b0472.png)

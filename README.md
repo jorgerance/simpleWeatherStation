@@ -29,4 +29,4 @@ Add one of those statements for each SSID you want to be able to connect:
 
 What to expect once your data has been uploaded to ThingSpeak:
 
-![]({{site.baseurl}}/https://user-images.githubusercontent.com/22028245/32220371-c7f884d2-be31-11e7-877d-fc83b24b0472.png)
+![](https://user-images.githubusercontent.com/22028245/32220371-c7f884d2-be31-11e7-877d-fc83b24b0472.png)

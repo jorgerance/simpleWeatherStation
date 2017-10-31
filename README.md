@@ -1,5 +1,5 @@
 # SWS (Simple Weather Station)
-A Simple Weather Station controlled by a NodeMCU dev board writen in Arduino which reports data through ThingSpeak.
+A Simple Weather Station controlled by a NodeMCU dev board written in Arduino which reports data through ThingSpeak.
 
 ## About the ESP8266
 Wikipedia:

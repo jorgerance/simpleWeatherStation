@@ -24,16 +24,20 @@ Wikipedia:
 
 **Total cost: 5,45 USD.**
 
-## Breadboard
+## Schematics
 
 ![](https://user-images.githubusercontent.com/22028245/32241498-9380a54c-be70-11e7-8e7f-1704b6ba1354.png)
+
+Since the design is really simple, you can actually mount it directly over a perfoard since there is no real need for a custom made PCB.
+
+![](https://user-images.githubusercontent.com/22028245/32494037-5d68b242-c3c0-11e7-9ada-3190f0d4f6c8.jpg)
 
 ## Parameters to be updated on the .ino file
 
 Replace "XXXXXXX" with your API key
 
     const char * myWriteAPIKey = "XXXXXXX";
-    
+
 Add one of those statements for each SSID you want to be able to connect
 
 	wifiMulti.addAP("SSID", "PASSWORD");

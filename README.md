@@ -17,10 +17,10 @@ Wikipedia:
 - Upload sensor readings to **ThingSpeak**.
 
 ## Bill of materials
-- 1 x NodeMCU V3 dev board (esp8266): ~2,65 USD.
-- 1 x DHT11 sensor: ~1,00 USD.
-- 1 x BMP180 sensor: ~1,70 USD.
-- 2 x 10K resistors: ~0,10 USD.
+- 1 x NodeMCU V3 dev board (esp8266): ~2.65 USD.
+- 1 x DHT11 sensor: ~1.00 USD.
+- 1 x BMP180 sensor: ~1.70 USD.
+- 2 x 10K resistors: ~0.10 USD.
 
 **Total cost: 5,45 USD.**
 
